@@ -207,4 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 # API keys
-.env
+.envenv/
+env_practice/
+.DS_Store
